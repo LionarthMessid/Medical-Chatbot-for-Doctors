@@ -30,7 +30,9 @@ Medical_chatbot/
 │   └── db_faiss/           # FAISS vector database
 ├── requirements.txt        # Python dependencies
 ├── README.md               # This file
-└── ...
+├── medbot.py               # Streamlit app with LLM connection
+└── memory-creation-llm.py  # Builds vectorstore
+
 ```
 
 ---
