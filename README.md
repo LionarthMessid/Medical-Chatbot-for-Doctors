@@ -3,6 +3,11 @@
 A conversational AI assistant for medical information, powered by The Gale Encyclopedia of Medicine, advanced language models (LLMs), and semantic search. This project uses Streamlit for the user interface, LangChain for retrieval-augmented generation, HuggingFace for LLMs, and FAISS for fast vector search.
 
 ---
+![WhatsApp Image 2025-07-05 at 22 29 25_675eae33](https://github.com/user-attachments/assets/cda84bde-f42b-4c40-aa3a-969198c4ada2)
+![WhatsApp Image 2025-07-05 at 22 40 22_4774f594](https://github.com/user-attachments/assets/cda07542-5146-4410-b186-b631d614568d)
+![WhatsApp Image 2025-07-05 at 22 41 51_f2e7e683](https://github.com/user-attachments/assets/a796f8d5-dca8-4de9-904a-8229e2ea0384)
+![WhatsApp Image 2025-07-05 at 22 46 28_791f1800](https://github.com/user-attachments/assets/5a356d0a-9813-4636-805d-82125ce4dedf)
+
 
 ## 🚀 Features
 - **Conversational UI**: Chatbot interface built with Streamlit
@@ -67,7 +72,6 @@ Medical_chatbot/
 ## 🧑‍⚕️ Usage Guide
 
 - **Ask medical questions**: Type your question in the chat input (e.g., "What are the symptoms of diabetes?")
-- **Select answer length**: Choose between short (50–100 words) and medium (100–200 words) answers in the sidebar
 - **View references**: Each answer includes academic-style references showing the section, page, and source
 - **Clear chat**: Use the sidebar button to reset the conversation
 
