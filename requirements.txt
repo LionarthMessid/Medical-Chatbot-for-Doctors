@@ -1,0 +1,14 @@
+streamlit==1.41.0
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.52
+langchain-huggingface==0.0.4
+sentence-transformers==2.7.0
+faiss-cpu==1.7.4
+python-dotenv==1.0.1
+huggingface-hub==0.20.3
+tqdm==4.67.1
+pypdf==4.2.0
+numpy==1.26.4
+scikit-learn==1.5.1
+requests==2.32.4 
